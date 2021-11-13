@@ -1,5 +1,3 @@
-# Curso_Python
-
 <h1> Curso-Python</h1>
 Curso de Python tomado en la plataforma Platzi e impartido por Facundo García Martoni. Se divide en 3 partes:
 <ol>
